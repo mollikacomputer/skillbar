@@ -3,7 +3,7 @@ const Skillbar = () => {
   return (
     <div>
       <div className={styles.skill}>
-        <h2 className={styles.titleText}>Skill Bar Component</h2>
+        <h2 className={styles.titleText}>Develop by Ranjit K Mandal</h2>
         <div className={styles.skillBox}>
           {/* html section  */}
           <span className={styles.title}> HTML</span>
