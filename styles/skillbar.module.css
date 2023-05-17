@@ -22,7 +22,6 @@
     display: block;
     height: 15px;
     border-radius: 8px;
-    width: 90%;
     background-image: linear-gradient(to right, rgba(0, 140, 255, 0.459) , rgba(0, 47, 255, 0.788));  
 }
 .skillPer{
@@ -40,18 +39,23 @@
 }
 .html{
     animation-delay: 0.4s;
+    width: 90%;
 }
 .css{
     animation-delay: 0.6s;
+    width: 80%;
 }
 .javascript{
     animation-delay: 0.8s;
+    width: 75%;
 }
 .node{
     animation-delay: 0.10s;
+    width: 65%;
 }
 .mongodb{
     animation-delay: 0.12s;
+    width: 60%;
 }
 .title{
     font-weight: 800;
