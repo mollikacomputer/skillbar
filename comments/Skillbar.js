@@ -37,7 +37,7 @@ const Skillbar = () => {
           <span className={styles.title}> Mongodb</span>
           <div className={`${styles.skillBar}`}>
             <span className={`${styles.skillPer} ${styles.mongodb}`}>
-              <span className={styles.tooltip}>90%</span>
+              <span className={styles.tooltip}>50%</span>
             </span>
           </div>
         </div>
@@ -45,5 +45,4 @@ const Skillbar = () => {
     </div>
   );
 };
-
 export default Skillbar;
