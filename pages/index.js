@@ -1,6 +1,6 @@
 
-import Skillbar from '@/comments/Skillbar'
-import { Inter } from 'next/font/google'
+import Skillbar from '@/comments/Skillbar';
+import { Inter } from 'next/font/google';
 
 const inter = Inter({ subsets: ['latin'] })
 
